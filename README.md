@@ -2,7 +2,7 @@
 
 ## This page is under construction
 
-![alt under construction](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.kromogen.com%2Fen%2Findex.html&psig=AOvVaw1DxcGciziYQpzkcTkjhWjy&ust=1642613232282000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDci6vpu_UCFQAAAAAdAAAAABAD)
+![under construction](http://www.kromogen.com/en/images/underconstruction.jpg)
 
 <!--
 **rasnesakam/rasnesakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
