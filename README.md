@@ -14,12 +14,20 @@ I am coding what i want and what i need to.
 - [Node Api](#node-api)
 
 ## What i am learning
-- <img src="img/cpp.png" alt="cpp lang" width="64dp" />
-- <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring boot" width="64dp" />
-- React framework
-- Kotlin
+ 
+ <img src="img/cpp.png" alt="cpp lang" width="32dp" /><br/>
+ 
+ <img src="img/clang.png" alt="c lang" width="32dp" /><br/>
+ 
+ <img src="img/kotlin.jpeg" alt="spring boot" width="32dp" /><br/>
+ 
+ <img src="img/react-framework.png" alt="spring boot" width="32dp" /><br/> 
+ 
+ <img src="img/spring-logo.svg" alt="spring boot" width="64dp" /><br/>
+ 
 
 ## What are my interests
+
 
 ## DepIn
 This is a dependency injection library for java. You can create any instances from desired references.  
