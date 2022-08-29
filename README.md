@@ -5,6 +5,8 @@ My name is Ensar. I am computer engineering student in Turkey.
 I am also student at Ecole 42 Istanbul.  
 I am coding what i want and what i need to.  
 
+![Profile views](https://gpvc.arturio.dev/b-tekinli) 
+
 ## My projects that i'm working on:
 - [DepIn](#depin)
 - [42 Istanbul Cursus](#42-istanbul-cursus)
@@ -27,7 +29,11 @@ I am coding what i want and what i need to.
  
 
 ## What are my interests
-
+- I am interested to web development 🌐
+- I am interested to machine learning 🤖
+- I am interested to mobile development 📱
+- I am interested to low level programming 💻
+- I am interested to photographing 📷
 
 ## DepIn
 This is a dependency injection library for java. You can create any instances from desired references.  
