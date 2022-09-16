@@ -7,6 +7,9 @@ I am coding what i want and what i need to.
 
 ![Profile views](https://gpvc.arturio.dev/rasnesakam) 
 
+![github-stats][github-stats]
+
+
 ## My projects that i'm working on:
 - [DepIn](#depin)
 - [42 Istanbul Cursus](#42-istanbul-cursus)
@@ -14,8 +17,6 @@ I am coding what i want and what i need to.
 - [MyDict](#mydict)
 - [Spring Api](#spring-api)
 - [Node Api](#node-api)
-
-![github-stats](https://github-readme-stats.vercel.app/api?username=rasnesakam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)
 
 ## What i am learning
  
@@ -77,6 +78,8 @@ Please don't hesitiate to contact with me Ü
 
 
 [email]: mailto:rasnesakam@gmail.com
+
+[github-stats]: https://github-readme-stats.vercel.app/api?username=rasnesakam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false
 
 <!--
 **rasnesakam/rasnesakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
