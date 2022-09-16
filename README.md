@@ -15,6 +15,8 @@ I am coding what i want and what i need to.
 - [Spring Api](#spring-api)
 - [Node Api](#node-api)
 
+![github-stats](https://github-readme-stats.vercel.app/api?username=rasnesakam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)
+
 ## What i am learning
  
  <img src="img/cpp.png" alt="cpp lang" width="32dp" /><br/>
