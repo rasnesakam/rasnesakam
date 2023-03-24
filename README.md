@@ -9,6 +9,8 @@ I am coding what i want and what i need to.
 
 ![github-stats][github-stats]
 
+![lang-statistics][lang-statistics]
+
 
 ## My projects that i'm working on:
 - [DepIn](#depin)
@@ -80,6 +82,8 @@ Please don't hesitiate to contact with me Ü
 [email]: mailto:rasnesakam@gmail.com
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=rasnesakam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false
+
+[lang-statistics]: https://github-readme-stats.vercel.app/api/top-langs/?username=rasnesakam&layout=compact&theme=tokyonight
 
 <!--
 **rasnesakam/rasnesakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
