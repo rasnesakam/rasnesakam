@@ -5,71 +5,81 @@ My name is Ensar. I am computer engineering student in Turkey.
 I am also student at Ecole 42 Istanbul.  
 I am coding what i want and what i need to.  
 
-![Profile views](https://gpvc.arturio.dev/rasnesakam) 
+![Profile views][profile-views]
 
+<table><tr><td align="center" width="50%">
+ 
 ![github-stats][github-stats]
+
+</td><td align="center" width="50%">
 
 ![lang-statistics][lang-statistics]
 
+</td></tr></table>  
 
 ## My projects that i'm working on:
-- [DepIn](#depin)
-- [42 Istanbul Cursus](#42-istanbul-cursus)
-- [My LeetCode Solutions](#my-leetcode-solutions)
-- [MyDict](#mydict)
-- [Spring Api](#spring-api)
-- [Node Api](#node-api)
+- [DepIn][depin]
+- [42 Istanbul Cursus][42-istanbul-cursus]
+- [My LeetCode Solutions][my-leetcode-solutions]
+- [MyDict][mydict]
+- [Spring Api][spring-api]
+- [Node Api][node-api]
+- [mathrice][mathrice]
+- [nuRon][nuron]
 
-## What i am learning
- 
- <img src="img/cpp.png" alt="cpp lang" width="32dp" /><br/>
- 
- <img src="img/clang.png" alt="c lang" width="32dp" /><br/>
- 
- <img src="img/kotlin.jpeg" alt="spring boot" width="32dp" /><br/>
- 
- <img src="img/react-framework.png" alt="spring boot" width="32dp" /><br/> 
- 
- <img src="img/spring-logo.svg" alt="spring boot" width="64dp" /><br/>
- 
-
-## What are my interests
-- I am interested to web development 🌐
-- I am interested to machine learning 🤖
-- I am interested to mobile development 📱
-- I am interested to low level programming 💻
-- I am interested to photographing 📷
-
-## DepIn
-This is a dependency injection library for java. You can create any instances from desired references.  
-Dependency injection targets to instantiate classes and their dependencies in a simple way.
-DepIn also contains a user friendly IoC pattern
-
-For more info, you can [visit the repository here](https://github.com/rasnesakam/DepIn)
+<table><tr><td valign="top" width="33%">
 
 
-## 42 Istanbul Cursus
-I am also studying at ecole 42 Turkey branch. In this repository, i will publish my works in ecole 42 cursus projects<br/>
-For more info, you can [visit the repository here](https://github.com/rasnesakam/42IstanbulCursus)
 
-## My LeetCode Solutions
-[LeetCode](https://leetcode.com) is a platform where people developing algorithms for bunch of problems.<br/>
-I am collecting my solutions under this repository.<br/>
-For more info, you can [visit repository here](https://github.com/rasnesakam/My-LeetCode-Solutions)
+### Languages that I use  
+<div align="center">  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+</div>
 
-## MyDict
-MyDict is an Android application that helps you to keep the words that you have learned.<br/>
-You can create new dictionaries and append several words and meanings of them.<br/>
-For more info, you can [visit the repository here](https://github.com/rasnesakam/MyDict)
+</td><td valign="top" width="33%">
 
-## Spring Api
-Spring api is first api project that uses [Java Spring framework](https://spring.io).<br/>
-Spring framework is web development tool for java<br/>
-For more info, you can [visit the repository here](https://github.com/rasnesakam/SpringApi)
 
-## Node Api
-Node api is first api project that uses [Node Js](https://nodejs.org/en/) framework and [Express js](https://expressjs.com)<br/>
-For more info, you can [visit the repository here](https://github.com/rasnesakam/NodeApi)
+
+### Frameworks that I use  
+<div align="center">  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Extra  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+
+</td></tr></table>  
 
 
 ---
@@ -77,6 +87,14 @@ Please don't hesitiate to contact with me Ü
 
 [<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mail_me" width="32dp" />][email]
 
+[depin]: https://github.com/rasnesakam/DepIn
+[42-istanbul-cursus]: https://github.com/rasnesakam/42IstanbulCursus
+[my-leetcode-solutions]: https://github.com/rasnesakam/My-LeetCode-Solutions
+[mydict]: https://github.com/rasnesakam/MyDict
+[spring-api]: https://github.com/rasnesakam/SpringApi
+[node-api]: https://github.com/rasnesakam/NodeApi
+[mathrice]: https://github.com/rasnesakam/mathrice
+[nuron]: https://github.com/rasnesakam/nuRon
 
 
 [email]: mailto:rasnesakam@gmail.com
@@ -84,6 +102,8 @@ Please don't hesitiate to contact with me Ü
 [github-stats]: https://github-readme-stats.vercel.app/api?username=rasnesakam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false
 
 [lang-statistics]: https://github-readme-stats.vercel.app/api/top-langs/?username=rasnesakam&layout=compact&theme=tokyonight
+
+[profile-views]: https://komarev.com/ghpvc/?username=rasnesakam&style=for-the-badge&color=yellow
 
 <!--
 **rasnesakam/rasnesakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
