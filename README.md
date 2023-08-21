@@ -85,7 +85,11 @@ I am coding what i want and what i need to.
 ---
 Please don't hesitiate to contact with me Ü  
 
-[<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mail_me" width="32dp" />][email]
+[<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" width="32dp"/>][email]
+[<img src="https://cdn-icons-png.flaticon.com/512/4401/4401405.png" alt="medium" width="32dp"/>][medium]
+[<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" width="32dp"/>][linkedin]
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" width="32dp" />][instagram]
+[<img src="https://toppng.com/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" alt="instagram" width="32dp" />][twitter]
 
 [depin]: https://github.com/rasnesakam/DepIn
 [42-istanbul-cursus]: https://github.com/rasnesakam/42IstanbulCursus
@@ -98,6 +102,10 @@ Please don't hesitiate to contact with me Ü
 
 
 [email]: mailto:rasnesakam@gmail.com
+[linkedin]: https://www.linkedin.com/in/ensar-makas-a16b69199/
+[medium]: https://medium.com/@emakas
+[instagram]: https://www.instagram.com/ensar.makas/
+[twitter]: https://twitter.com/ensar_makas
 
 [github-stats]: https://github-readme-stats.vercel.app/api?username=rasnesakam&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false
 
