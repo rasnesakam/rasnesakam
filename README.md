@@ -3,7 +3,7 @@
 ## About me
 My name is Ensar. I am computer engineering student in Turkey.  
 I am also student at Ecole 42 Istanbul.  
-I am coding what i want and what i need to.  
+I am developing for fun. 
 
 ![Profile views][profile-views]
 
