@@ -19,13 +19,13 @@ I am developing for fun.
 
 ## My projects that i'm working on:
 - [DepIn][depin]
-- [42 Istanbul Cursus][42-istanbul-cursus]
-- [My LeetCode Solutions][my-leetcode-solutions]
-- [MyDict][mydict]
-- [Spring Api][spring-api]
-- [Node Api][node-api]
+- [RESTful API Gateway][api-gateway]
+- [User&Auth API][emakas-users]
+- [Shopping API][shop-api]
+- [Blog API][blog-api]
 - [mathrice][mathrice]
 - [nuRon][nuron]
+- [42 Istanbul Cursus][42-istanbul-cursus]
 
 <table><tr><td valign="top" width="33%">
 
@@ -92,6 +92,10 @@ Please don't hesitiate to contact with me Ü
 [<img src="https://toppng.com/uploads/preview/twitter-x-icon-logo-116902890413xbfexhf8l.webp" alt="instagram" width="32dp" />][twitter]
 
 [depin]: https://github.com/rasnesakam/DepIn
+[api-gateway]: https://github.com/rasnesakam/api-gateway
+[emakas-users]: https://github.com/rasnesakam/emakas-users
+[shop-api]: https://github.com/rasnesakam/shop-api
+[blog-api]: https://github.com/rasnesakam/blog-api
 [42-istanbul-cursus]: https://github.com/rasnesakam/42IstanbulCursus
 [my-leetcode-solutions]: https://github.com/rasnesakam/My-LeetCode-Solutions
 [mydict]: https://github.com/rasnesakam/MyDict
