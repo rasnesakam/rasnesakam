@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 ## About me
-My name is Ensar. I am computer engineering student in Turkey.  
-I am also student at Ecole 42 Istanbul.  
-I am developing for fun. 
+My name is [Ensar](https://www.emakas.net/). I am computer engineering student in Turkey.  
+I am also student at Ecole 42 Istanbul.
+
+I am passionate about the internet and internet technologies, continuously developing my skills in this field. 
+Throughout my university education, I took part in various activities and actively sought professional experience. 
+My goal is to develop performance-oriented solutions in the field of internet technologies, 
+considering the industry's needs and ensuring top-notch user and developer experiences.
 
 ![Profile views][profile-views]
 
